@@ -17,7 +17,7 @@
 <a href="https://github.com/" target="_blank"> <img src="images/logo/GitHub.svg" alt="GitHub" width="60" height="60"/> </a> 
 <a href="https://docs.github.com/en/actions" target="_blank"> <img src="images/logo/GithubActions.svg" alt="GitHub Actions" width="60" height="60"/> </a> 
 <a href="https://docs.qameta.io/allure/" target="_blank"> <img src="images/logo/Allure_Report.svg" alt="Allure Report" width="60" height="60"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="images/logo/Jenkins.svg" alt="Jenkins" width="60" height="60"/> </a> 
+<a href="https://www.jenkins.io/" target="_blank"> <img src="images/logo/Jenkins.svg" alt="Jenkins" width="100" height="100"/> </a> 
 <a href="https://appium.io/" target="_blank"> <img src="images/logo/Appium.svg" alt="Appium" width="60" height="60"/> </a>
 </p>
 
